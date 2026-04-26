@@ -17,19 +17,30 @@
   <br/>
   <i>"Code with purpose, build with passion."</i>
 </p>
+
+
+
+
 ### 💻 Technologies & Tools I Use
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL"/>
+  </p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="60" height="60" alt="Odoo"/>
+  </p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"/>
+</div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
-
-  <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="55" height="55" alt="Odoo"/>
 
 </div>
 ### 💬 About Me
