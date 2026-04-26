@@ -22,21 +22,15 @@
 
 <div align="center">
 
-  <!-- Row 1 -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL"/>
-  </p>
-
-  <!-- Row 2 -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70" alt="PostgreSQL"/>
-    &nbsp;&nbsp;
-    <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="70" height="70" alt="Odoo"/>
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70" alt="PostgreSQL"/>
+  
+  <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="70" height="70" alt="Odoo"/>
 
 </div>
 
