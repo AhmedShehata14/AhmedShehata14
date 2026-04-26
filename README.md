@@ -13,7 +13,7 @@
 <p align="center">
   <b>Backend odoo developer</b> from Egypt 🇪🇬  
   <br/>
-  I am a Junior Odoo Developer with a strong foundation in Python, Odoo ORM, and PostgreSQL. I have experience in developing and customizing Odoo modules, designing  XML views, and generating QWeb reports. I have completed hands-on freelance experience delivering real-world ERP solutions I am skilled in building scalable   backend systems, implementing business logic, and optimizing workflows. I am seeking to contribute my technical expertise and grow within a dynamic ERP development environment 
+ I am a Junior Odoo Developer skilled in Python, Odoo ORM, and PostgreSQL, with experience in building and customizing ERP modules, developing scalable backend systems, and delivering real-world freelance ERP solutions, seeking to grow in a dynamic ERP development environment
   <br/>
 </p>
 
@@ -51,7 +51,7 @@
 ---
 
 ### 🏆 Certificates & Achievements
-• C++ fundamentals (OOP, Data Structures, Problem Solving) at Programming Advices Academy with practical projects experience. • .NET fundamentals (EraaSoft Academy) and SQL database management including queries and design
+- C++ fundamentals (OOP, Data Structures, Problem Solving) at Programming Advices Academy with practical projects experience. • .NET fundamentals (EraaSoft Academy) and SQL database management including queries and design
 ---
 
 ### 📊 GitHub Stats
