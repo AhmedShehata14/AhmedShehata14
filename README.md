@@ -17,35 +17,21 @@
   <br/>
   <i>"Code with purpose, build with passion."</i>
 </p>
-
 ### 💻 Technologies & Tools I Use
 
 <div align="center">
 
-  <!-- Top (1 icon) -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
 
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
 
-  <!-- Middle (2 icons) -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"/>
 
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
 
-  <!-- Bottom (2 icons) -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
-
-    <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="55" height="55" alt="Odoo"/>
-  </div>
+  <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="55" height="55" alt="Odoo"/>
 
 </div>
-
 ### 💬 About Me
 I'm a backend developer specialized in **C#** and **ASP.NET Core**.  
 I focus on writing clean, maintainable, and scalable code.  
