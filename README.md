@@ -23,6 +23,7 @@
 <p align="center">
 
   <img height="60" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img height="60" src="https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
   <img height="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
