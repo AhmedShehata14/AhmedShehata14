@@ -17,20 +17,24 @@
   <br/>
 </p>
 
-
 ### 💻 Technologies & Tools I Use
 
 <p align="center">
 
-  <img height="45" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  
-  <img height="45" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img height="45" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  <img height="45" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-  <img height="45" src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <!-- C++ (Microsoft / GCC style icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
+
+  <!-- Python (Python Software Foundation) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
+
+  <!-- MySQL (Oracle) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL"/>
+
+  <!-- PostgreSQL (PostgreSQL Global Development Group) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70" alt="PostgreSQL"/>
+
+  <!-- Odoo (Odoo S.A.) -->
+  <img src="https://www.odoo.com/web/image/website/1/logo/odoo?unique=9c1c3d3" width="70" height="70" alt="Odoo"/>
 
 </p>
 
