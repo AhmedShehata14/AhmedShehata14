@@ -11,11 +11,10 @@
 </h2>
 
 <p align="center">
-  <b>Backend </b> from Egypt 🇪🇬  
+  <b>Backend odoo developer</b> from Egypt 🇪🇬  
   <br/>
-  Passionate about building scalable, high-performance systems with clean architecture.  
+  I am a Junior Odoo Developer with a strong foundation in Python, Odoo ORM, and PostgreSQL. I have experience in developing and customizing Odoo modules, designing  XML views, and generating QWeb reports. I have completed hands-on freelance experience delivering real-world ERP solutions I am skilled in building scalable   backend systems, implementing business logic, and optimizing workflows. I am seeking to contribute my technical expertise and grow within a dynamic ERP development environment 
   <br/>
-  <i>"Code with purpose, build with passion."</i>
 </p>
 
 
@@ -44,20 +43,15 @@
 
 </div>
 ### 💬 About Me
-I'm a backend developer specialized in **C#** and **ASP.NET Core**.  
-I focus on writing clean, maintainable, and scalable code.  
-I’m passionate about backend performance, database optimization, and modern system design.  
-
+ I am a Junior Odoo Developer with a strong foundation in Python, Odoo ORM, and PostgreSQL. I have experience in developing and customizing Odoo modules, designing  XML views, and generating QWeb reports. I have completed hands-on freelance experience delivering real-world ERP solutions I am skilled in building scalable   backend systems, implementing business logic, and optimizing workflows. I am seeking to contribute my technical expertise and grow within a dynamic ERP development environment 
+ 
 💡 **Goal:** Become one of the top backend developers in the MENA region.  
 💪 **Mindset:** Consistency, focus, and continuous improvement.
 
 ---
 
 ### 🏆 Certificates & Achievements
-- Microsoft Certified: .NET Developer *(in progress)*  
-- Completed multiple backend courses (Clean Architecture, Design Patterns, APIs)  
-- Built and deployed several projects using ASP.NET Core, SQL Server, and Docker  
-
+• C++ fundamentals (OOP, Data Structures, Problem Solving) at Programming Advices Academy with practical projects experience. • .NET fundamentals (EraaSoft Academy) and SQL database management including queries and design
 ---
 
 ### 📊 GitHub Stats
