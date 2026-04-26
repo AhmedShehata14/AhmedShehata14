@@ -20,7 +20,7 @@
 
 ### 💻 Technologies & Tools I Use
 
-<div align="center">
+<div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" alt="C++"/>
   
